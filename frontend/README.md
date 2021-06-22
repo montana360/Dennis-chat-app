@@ -25,11 +25,11 @@ This is a chat application built with socket io and with Auth0
 https://akrong-react-chat.herokuapp.com/
 
 ### Heroku Repository
-To clone this project from heroku run 'heroku git:clone -a akrong-react-chat'.
+To clone this project from heroku run 'heroku git:clone -a dennischat-app'.
 
 
 ### GIT Repository
-To clone this project, 'git clone https://github.com/PattersonOfficial/react-chat-app.git' would do the trick just fine.
+To clone this project, 'git clone https://github.com/montana360/Dennis-chat-app.git would do the trick just fine.
 
 
 ### Package Installation
