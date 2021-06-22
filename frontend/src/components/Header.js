@@ -49,16 +49,16 @@ const Header = () => {
         >
           <Container >
             <LinkContainer to='/'>
-              <Navbar.Brand style={{ color: 'white' }}>Chat App</Navbar.Brand>
+              <Navbar.Brand  class = "--bs-white">Chat App</Navbar.Brand>
             </LinkContainer>
             <Navbar.Toggle aria-controls='basic-navbar-nav' />
             <Navbar.Collapse id='basic-navbar-nav' class="align-content-end">
               <Nav className='ml-auto'>
                 <LinkContainer to='/chat'>
-                  <Nav.Link>Chat</Nav.Link>
+                  <Nav.Link  class = "--bs-white">Chat</Nav.Link>
                 </LinkContainer>
                 <LinkContainer to='/profile'>
-                  <Nav.Link>Profile ({user.name})</Nav.Link>
+                  <Nav.Link class = "--bs-white">Profile ({user.name})</Nav.Link>
                 </LinkContainer>
               </Nav>
               <LogoutButton />
