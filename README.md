@@ -22,10 +22,10 @@ This is a chat application built with React io and with Auth0
 10. @auth0/auth0-react: 1.5.0
 
 ### Demo
-https://akrong-react-chat.herokuapp.com/
+https://dennischat-app.herokuapp.com/
 
 ### Heroku Repository
-To clone this project from heroku run 'heroku git:clone -a akrong-react-chat'.
+To clone this project from heroku run 'heroku git:clone -a dennischat-app'.
 
 
 ### GIT Repository
