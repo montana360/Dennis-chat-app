@@ -1,8 +1,8 @@
 # Web Chat App
 
-This is a chat application built with React io and with Auth0
+This is a chat application built with React io and Auth0
 
-### Stack (Mern)
+### Stack 
 1. MongoDB
 2. Express
 3. React
